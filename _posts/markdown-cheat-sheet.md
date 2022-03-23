@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Markdown basics
 categories: [markdown]
-title: 2022-03-11-Markdown Cheat Sheet.md
+title: Markdown Cheat Sheet.md
 ---
 
 # Markdown Cheat Sheet
